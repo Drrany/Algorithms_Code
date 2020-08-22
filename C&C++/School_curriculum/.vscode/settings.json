@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "random": "cpp"
+    },
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ $fileName -o E:/VScode_code/C++/study_code/School_curriculum/z_exe/$fileNameWithoutExt.exe && E:/VScode_code/C++/study_code/School_curriculum/z_exe/$fileNameWithoutExt.exe"
+    }
+}

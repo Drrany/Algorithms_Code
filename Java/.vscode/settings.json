@@ -1,0 +1,12 @@
+[
+    {
+        "code-runner.executorMap": {
+            "java": "cd $dir && javac JAVA.$fileName && java $fileNameWithoutExt"
+        },
+        "editor.tokenColorCustomizations": {
+            "[Material Theme]": {
+                "semanticHighlighting": false
+            }
+        }
+    }
+]
